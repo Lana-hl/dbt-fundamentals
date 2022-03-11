@@ -38,3 +38,5 @@ models:
         +materialize: table
     staging:
         +materialize: view
+
+
