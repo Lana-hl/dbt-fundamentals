@@ -1,0 +1,6 @@
+successful_order, status
+true,completed 
+true,shipped
+true,placed
+false,returned
+false,return_pending
